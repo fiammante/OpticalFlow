@@ -8,5 +8,5 @@ Source video used in the example is here https://github.com/opencv/opencv/blob/m
 ![Optical flow to 3D rendering with Plotly](./opticalflow.png?raw=true "Plotly rendering of Optical flow")
 Python file uses VTK default rendering window 
 
-Also added a lissajous example
+Also added a lissajous example, just change the source video in OpticalFlowFromBackground.ipynb to lissajous.mp4 
 ![Lissajous video flow to 3D rendering with Plotly](./lissajous2plotly.png?raw=true "Plotly rendering of Lissajous flow")
