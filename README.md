@@ -10,3 +10,5 @@ Python file uses VTK default rendering window
 
 Also added a lissajous example, just change the source video in OpticalFlowFromBackground.ipynb to lissajous.mp4 
 ![Lissajous video flow to 3D rendering with Plotly](./lissajous2plotly.png?raw=true "Plotly rendering of Lissajous flow")
+Here is the link to the resulting page with plotly (94MB) expect a few seconds to load
+[Plotly 3D rendering of lissajous](http://marc.fiammante.free.fr/lissajous_plotly_output.html)
